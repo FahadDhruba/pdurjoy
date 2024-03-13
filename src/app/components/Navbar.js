@@ -39,7 +39,7 @@ export default function Navbar() {
                   priority
                 />
                 <span className="self-center text-xl font-semibold sm:text-xl whitespace-nowrap dark:text-white">
-                  Flowbite
+                  Flowbit
                 </span>
               </a>
             </div>
